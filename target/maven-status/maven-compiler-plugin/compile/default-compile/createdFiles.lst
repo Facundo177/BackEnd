@@ -45,5 +45,6 @@ com\facundogaitansegura\Portfolio\Security\Service\RolService.class
 com\facundogaitansegura\Portfolio\Service\SBanner.class
 com\facundogaitansegura\Portfolio\Dto\dtoEducacion.class
 com\facundogaitansegura\Portfolio\Repository\RSkills.class
+com\facundogaitansegura\Portfolio\WebConfig.class
 com\facundogaitansegura\Portfolio\Controller\CExperiencia.class
 com\facundogaitansegura\Portfolio\Controller\CProyecto.class
